@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Atif</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate BACKEND developer from India</h3>
 
 - 🌱 I’m currently learning **Python/Django for Backend Devlopment**
 
